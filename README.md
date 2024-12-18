@@ -1,0 +1,1 @@
+Projeto desenvolvido sozinho a fim de testar funções como criação de branchs, criação de arquivos e repositórios. E depis subir os mesmo pro repositório! (Esse projeto não possui changelog e já foi finalizado).
